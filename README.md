@@ -44,4 +44,4 @@ npm run dev
 
 ## Docs for The Project:
 
-[Link]()
+[Link](https://github.com/Arvind-4/Users-API/blob/main/docs/api-docks.md)
