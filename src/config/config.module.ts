@@ -5,8 +5,6 @@ dotenv.config();
 
 @Module({})
 export class ConfigModule {
-    static port = process.env.PORT;
-    static database = {
-        url: process.env.DATABASE_URL,
-    }
+  static port = process.env.PORT;
+  static jwtSecret = process.env.JWT_SECRET;
 }
